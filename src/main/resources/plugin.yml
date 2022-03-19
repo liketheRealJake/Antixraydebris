@@ -1,0 +1,6 @@
+name: Antixraydebris
+version: '${project.version}'
+main: com.jakes.antixraydebris.Antixraydebris
+api-version: 1.18
+authors: [ Jake ]
+description: Stops xray with debris
